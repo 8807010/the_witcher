@@ -10,6 +10,10 @@ html {
   box-sizing: inherit;
 }
 
+:root {
+  --transition: 1.75s cubic-bezier(.2, .6, 0, 1);
+}
+
 html,
 body {
   height: 100%;
